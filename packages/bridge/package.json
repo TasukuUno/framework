@@ -15,7 +15,7 @@
     "prepack": "unbuild"
   },
   "dependencies": {
-    "@babel/plugin-transform-typescript": "^7.15.8",
+    "@babel/plugin-transform-typescript": "^7.16.1",
     "@nuxt/kit": "3.0.0",
     "@nuxt/nitro": "3.0.0",
     "@nuxt/postcss8": "^1.1.3",
